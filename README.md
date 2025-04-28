@@ -11,7 +11,7 @@ The design is flexible to support different replication strategies and secure ac
 
 ## Architecture
 
-<img width="6000" length="8000" alt="Terraform" src="https://github.com/user-attachments/assets/26c523f3-290d-4be9-bc8b-39fbca89478b">
+<img width="800" length="800" alt="Terraform" src="https://github.com/user-attachments/assets/c6b0843b-8a62-4a7a-8c7c-8dd6f1e589d0">
 
 
 ## Providers
